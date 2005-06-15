@@ -1,0 +1,10 @@
+# 27. Power to make rules by appropriate Government.
+
+- (1) The appropriate Government may, by notification in the Official Gazette, make rules to carry out the provisions of this Act.
+- (2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—
+  - (a) the cost of the medium or print cost price of the materials to be disseminated under sub-section (4) of section 4;
+  - (b) the fee payable under sub-section (1) of section 6;
+  - (c) the fee payable under sub-sections (1) and (5) of section 7;
+  - (d) the salaries and allowances payable to and the terms and conditions of service of the officers and other employees under sub-section (6) of section 13 and sub-section (6) of section 16;
+  - (e) the procedure to be adopted by the Central Information Commission or State Information Commission, as the case may be, in deciding the appeals under sub-section (10) of section 19; and
+  - (f) any other matter which is required to be, or may be, prescribed.
