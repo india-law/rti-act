@@ -1,0 +1,3 @@
+# 31. Repeal.
+
+The Freedom of Information Act, 2002 (5 of 2003) is hereby repealed.
