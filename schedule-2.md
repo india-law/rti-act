@@ -19,10 +19,9 @@ INTELLIGENCE AND SECURITY ORGANISATION ESTABLISHED BY THE CENTRAL GOVERNMENT
 - 13. National Security Guards.
 - 14. Assam Rifles.
 - 15. Sashtra Seema Bal.
-- 16. Special Branch (CID), Andaman and Nicobar.
-- 17. The Crime Branch-C.I.D.-CB, Dadra and Nagar Haveli.
-- 18. Special Branch, Lakshadweep Police.
+- 16. Directorate General of Income-tax (Investigation).
+- 17. National Technical Research Organisation.
+- 18. Financial Intelligence Unit, India.
 - 19. Special Protection Group.
 - 20. Defence Research and Development Organisation.
 - 21. Border Road Development Board.
-- 22. Financial Intelligence Unit, India.
