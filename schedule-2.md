@@ -26,3 +26,6 @@ INTELLIGENCE AND SECURITY ORGANISATION ESTABLISHED BY THE CENTRAL GOVERNMENT
 - 20. Defence Research and Development Organisation.
 - 21. Border Road Development Board.
 - 22. National Security Council Secretariat.
+- 23. Central Bureau of Investigation.
+- 24. National Investigation Agency.
+- 25. National Intelligence Grid.
