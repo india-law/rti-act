@@ -5,6 +5,8 @@
   - (a) the cost of the medium or print cost price of the materials to be disseminated under sub-section (4) of section 4;
   - (b) the fee payable under sub-section (1) of section 6;
   - (c) the fee payable under sub-sections (1) and (5) of section 7;
+  - (ca) the term of office of the Chief Information Commissioner and Information Commissioners under sub-sections (1) and (2) of section 13 and the State Chief Information Commissioner and State Information Commissioners under sub-sections (1) and (2) of section 16;
+  - (cb) the salaries, allowances and other terms and conditions of service of the Chief Information Commissioner and the Information Commissioners under sub-section (5) of section 13 and the State Chief Information Commissioner and the State Information Commissioners under sub-section (5) of section 16;
   - (d) the salaries and allowances payable to and the terms and conditions of service of the officers and other employees under sub-section (6) of section 13 and sub-section (6) of section 16;
   - (e) the procedure to be adopted by the Central Information Commission or State Information Commission, as the case may be, in deciding the appeals under sub-section (10) of section 19; and
   - (f) any other matter which is required to be, or may be, prescribed.
