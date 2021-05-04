@@ -5,13 +5,12 @@
 INTELLIGENCE AND SECURITY ORGANISATION ESTABLISHED BY THE CENTRAL GOVERNMENT
 
 - 1. Intelligence Bureau.
-- 2. Research and Analysis Wing of the Cabinet Secretariat.
+- 2. Research and Analysis Wing including its technical wing namely, the Aviation Research Centre of the Cabinet Secretariat.
 - 3. Directorate of Revenue Intelligence.
 - 4. Central Economic Intelligence Bureau.
 - 5. Directorate of Enforcement.
 - 6. Narcotics Control Bureau.
-- 7. Aviation Research Centre.
-- 8. Special Prontier Force.
+- 8. Special Frontier Force.
 - 9. Border Security Force.
 - 10. Central Reserve Police Force.
 - 11. Indo-Tibetan Border Police.
